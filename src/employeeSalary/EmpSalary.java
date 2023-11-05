@@ -58,6 +58,7 @@ public class EmpSalary {
 	}
 
 	public static void main(String[] args) {
+		// This is the main method
 
 		EmpSalary e1 = new EmpSalary(1, 7000, 5000, 2000);
 		e1.calcMonthlySal();
